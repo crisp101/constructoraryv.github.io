@@ -63,8 +63,8 @@ flex-direction: row;
 .perfil-info{
     padding-left: 3rem;
 }
-.perfil-info p{
-    line-height:1.5;
+.principal-p{
+    line-height: 1.5;
 }
     
 .nombre{
